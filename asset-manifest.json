@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/bishwas-portfolio/static/css/main.d54418ea.css",
-    "main.js": "/bishwas-portfolio/static/js/main.e71e834a.js",
-    "index.html": "/bishwas-portfolio/index.html",
-    "main.d54418ea.css.map": "/bishwas-portfolio/static/css/main.d54418ea.css.map",
-    "main.e71e834a.js.map": "/bishwas-portfolio/static/js/main.e71e834a.js.map"
+    "main.css": "/portfolio/static/css/main.d54418ea.css",
+    "main.js": "/portfolio/static/js/main.e71e834a.js",
+    "index.html": "/portfolio/index.html",
+    "main.d54418ea.css.map": "/portfolio/static/css/main.d54418ea.css.map",
+    "main.e71e834a.js.map": "/portfolio/static/js/main.e71e834a.js.map"
   },
   "entrypoints": [
     "static/css/main.d54418ea.css",
