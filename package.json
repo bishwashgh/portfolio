@@ -2,7 +2,7 @@
   "name": "bishwas-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://bishwasghimire.github.io/portfolio/src/index.tsx",
+  "homepage": "https://bishwashgh.github.io/portfolio/src/index.tsx",
   "dependencies": {
     "@types/node": "^18.15.0",
     "@types/react": "^18.0.28",
